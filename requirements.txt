@@ -1,0 +1,7 @@
+sqlalchemy
+fastapi
+uvicorn
+passlib
+itsdangerous
+typing
+python-secrets
